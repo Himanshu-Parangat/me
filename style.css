@@ -1,0 +1,9 @@
+li a, h1 {
+  font-family: 'Courier New', Courier, Serif;
+}
+a:hover {
+  background-color: green;
+}
+nav {
+  background-color: aliceblue;
+}
